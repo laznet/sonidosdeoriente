@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cuatro on </title>
+    <link>http://localhost:1313/etiquetas/cuatro/</link>
+    <description>Recent content in Cuatro on </description>
+    <generator>Hugo</generator>
+    <language>es-ve</language>
+    <lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/etiquetas/cuatro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ibrahim Bracho</title>
+      <link>http://localhost:1313/compositores/ibrahim_bracho/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compositores/ibrahim_bracho/</guid>
+      <description>&lt;h2 id=&#34;biografía&#34;&gt;Biografía&lt;/h2&gt;&#xA;&lt;h2 id=&#34;obras-destacadas&#34;&gt;Obras Destacadas&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Alma Oriental&lt;/strong&gt; (1978) - Joropo&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Canto a mi Tierra&lt;/strong&gt; (1985) - Gaita oriental&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sueños Llaneros&lt;/strong&gt; (1992) - Pasaje&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;reconocimientos&#34;&gt;Reconocimientos&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Premio Nacional de Cultura (2005)&lt;/li&gt;&#xA;&lt;li&gt;Orden José Antonio Ramos Sucre (2010)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

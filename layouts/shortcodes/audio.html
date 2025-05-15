@@ -1,0 +1,9 @@
+<div class="audio-player">
+    <audio controls>
+      <source src="{{ .Get "src" }}" type="audio/mpeg">
+      Tu navegador no soporta el elemento de audio.
+    </audio>
+    {{ if .Get "caption" }}
+    <p class="audio-caption">{{ .Get "caption" }}</p>
+    {{ end }}
+  </div>

@@ -1,0 +1,51 @@
+{{ define "main" }}
+<article class="single-content">
+  <header class="single-header">
+    {{ if .Params.featured_image }}
+    <div class="featured-image">
+      <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+    </div>
+    {{ end }}
+    
+    <h1>{{ .Title }}</h1>
+    
+    <div class="meta">
+      {{ if .Date }}
+      <span class="date"><i class="far fa-calendar-alt"></i> {{ .Date.Format "02/01/2006" }}</span>
+      {{ end }}
+      
+      {{ if .Params.tags }}
+      <div class="tags">
+        {{ range .Params.tags }}
+        <span class="tag">{{ . }}</span>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </header>
+  
+  <div class="content">
+    {{ .Content }}
+  </div>
+  
+  {{ if .Params.related }}
+  <section class="related">
+    <h2>Relacionados</h2>
+    <div class="related-grid">
+      {{ range where .Site.Pages ".Params.tags" "intersect" .Params.tags }}
+        {{ if ne .RelPermalink $.RelPermalink }}
+        <article class="related-item">
+          <a href="{{ .RelPermalink }}">
+            {{ if .Params.featured_image }}
+            <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+            {{ end }}
+            <h3>{{ .Title }}</h3>
+          </a>
+        </article>
+        {{ end }}
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+</article>
+{{ end }}

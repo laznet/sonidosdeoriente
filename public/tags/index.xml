@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo</generator>
+    <language>es-ve</language>
+    <lastBuildDate>Tue, 13 May 2025 13:16:11 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cumana</title>
+      <link>http://localhost:1313/tags/cumana/</link>
+      <pubDate>Tue, 13 May 2025 13:16:11 -0400</pubDate>
+      <guid>http://localhost:1313/tags/cumana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Isla De Margarita</title>
+      <link>http://localhost:1313/tags/isla-de-margarita/</link>
+      <pubDate>Tue, 13 May 2025 13:16:11 -0400</pubDate>
+      <guid>http://localhost:1313/tags/isla-de-margarita/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Region</title>
+      <link>http://localhost:1313/tags/region/</link>
+      <pubDate>Tue, 13 May 2025 13:16:11 -0400</pubDate>
+      <guid>http://localhost:1313/tags/region/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bajo Electrico</title>
+      <link>http://localhost:1313/tags/bajo-electrico/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/bajo-electrico/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cuatro</title>
+      <link>http://localhost:1313/tags/cuatro/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cuatro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Edo. Nva Esparta</title>
+      <link>http://localhost:1313/tags/edo.-nva-esparta/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/edo.-nva-esparta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Edo. Sucre</title>
+      <link>http://localhost:1313/tags/edo.-sucre/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/edo.-sucre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guitarra</title>
+      <link>http://localhost:1313/tags/guitarra/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/guitarra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Agrupacion</title>
+      <link>http://localhost:1313/tags/agrupacion/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/agrupacion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Badola Oriental</title>
+      <link>http://localhost:1313/tags/badola-oriental/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/badola-oriental/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compositor</title>
+      <link>http://localhost:1313/tags/compositor/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/compositor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compositores</title>
+      <link>http://localhost:1313/tags/compositores/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/compositores/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gaita</title>
+      <link>http://localhost:1313/tags/gaita/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gaita/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interpretes</title>
+      <link>http://localhost:1313/tags/interpretes/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/interpretes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Joropo</title>
+      <link>http://localhost:1313/tags/joropo/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/joropo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mandolina</title>
+      <link>http://localhost:1313/tags/mandolina/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mandolina/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nueva Esparta</title>
+      <link>http://localhost:1313/tags/nueva-esparta/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/nueva-esparta/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

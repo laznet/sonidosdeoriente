@@ -1,0 +1,18 @@
+<div class="tag-cloud-container">
+    <h3>Explorar por Etiquetas</h3>
+    <div class="tag-cloud">
+      {{ $tags := $.Site.Taxonomies.etiquetas }}
+      {{ $max := len (index $tags.ByCount 0).Pages }}
+      {{ $min := len (index $tags.ByCount.Reverse 0).Pages }}
+      
+      {{ range $name, $taxonomy := $tags }}
+        {{ $count := len $taxonomy.Pages }}
+        {{ $weight := div (sub (math.Log $count) (math.Log $min)) (sub (math.Log $max) (math.Log $min)) }}
+        {{ $size := add 0.8 (mul (sub 2.5 0.8) $weight) }}
+        <a href="{{ "/etiquetas/" | relLangURL }}{{ $name | urlize }}" 
+           style="font-size: {{ $size }}rem;">
+          {{ $name }} ({{ $count }})
+        </a>
+      {{ end }}
+    </div>
+  </div>

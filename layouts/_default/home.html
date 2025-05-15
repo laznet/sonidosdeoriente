@@ -1,0 +1,35 @@
+{{ define "main" }}
+<section class="hero" style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('{{ .Site.Params.featured_image }}');">
+  <div class="hero-content">
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Description }}</p>
+  </div>
+</section>
+
+<section class="featured-collections">
+  <h2>Colecciones Destacadas</h2>
+  
+  <div class="collections-grid">
+    {{ range where .Site.Pages "Kind" "section" }}
+      {{ if ne .Title "" }}
+      <div class="collection-card">
+        <a href="{{ .RelPermalink }}">
+          <div class="card-icon">
+            {{ if eq .Section "musicos" }}<i class="fas fa-users"></i>{{ end }}
+            {{ if eq .Section "compositores" }}<i class="fas fa-music"></i>{{ end }}
+            {{ if eq .Section "agrupaciones" }}<i class="fas fa-guitar"></i>{{ end }}
+            {{ if eq .Section "generos" }}<i class="fas fa-compact-disc"></i>{{ end }}
+            {{ if eq .Section "partituras" }}<i class="fas fa-scroll"></i>{{ end }}
+            {{ if eq .Section "producciones" }}<i class="fas fa-record-vinyl"></i>{{ end }}
+          </div>
+          <h3>{{ .Title }}</h3>
+          <p>{{ .Description }}</p>
+        </a>
+      </div>
+      {{ end }}
+    {{ end }}
+  </div>
+</section>
+
+{{ .Content }}
+{{ end }}

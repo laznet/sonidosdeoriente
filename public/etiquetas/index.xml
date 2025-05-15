@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Etiquetas on </title>
+    <link>http://localhost:1313/etiquetas/</link>
+    <description>Recent content in Etiquetas on </description>
+    <generator>Hugo</generator>
+    <language>es-ve</language>
+    <lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/etiquetas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Compositores</title>
+      <link>http://localhost:1313/etiquetas/compositores/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/etiquetas/compositores/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cuatro</title>
+      <link>http://localhost:1313/etiquetas/cuatro/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/etiquetas/cuatro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Edo Nva Esparta</title>
+      <link>http://localhost:1313/etiquetas/edo-nva-esparta/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/etiquetas/edo-nva-esparta/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

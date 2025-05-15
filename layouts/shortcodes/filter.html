@@ -1,0 +1,15 @@
+<!-- layouts/shortcodes/filter.html -->
+<div class="taxonomy-filter">
+    {{ $pages := where .Site.Pages "Params.instrumentos" "intersect" (slice (.Get "instrumento")) }}
+    {{ $pages = $pages | intersect (where .Site.Pages "Params.regiones" "intersect" (slice (.Get "region"))) }}
+    
+    <h3>Músicos que tocan {{ .Get "instrumento" }} en {{ .Get "region" }}</h3>
+    
+    <div class="filtered-grid">
+      {{ range $pages }}
+      <div class="filtered-item">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </div>
+      {{ end }}
+    </div>
+  </div>

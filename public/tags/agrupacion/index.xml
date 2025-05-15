@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agrupacion on </title>
+    <link>http://localhost:1313/tags/agrupacion/</link>
+    <description>Recent content in Agrupacion on </description>
+    <generator>Hugo</generator>
+    <language>es-ve</language>
+    <lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/agrupacion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grupo Acuario</title>
+      <link>http://localhost:1313/agrupaciones/grupo_acuario/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/agrupaciones/grupo_acuario/</guid>
+      <description>&lt;h2 id=&#34;historia&#34;&gt;Historia&lt;/h2&gt;&#xA;&lt;p&gt;El Grupo Acuario.&lt;/p&gt;&#xA;&lt;h2 id=&#34;integrantes-actuales&#34;&gt;Integrantes Actuales&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Abraham Garcia&lt;/strong&gt;: Cuatro y dirección musical&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Luis Teodoro Garcia&lt;/strong&gt;: Voz principal y maracas&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Enio Garcia&lt;/strong&gt;: Bajo y coros&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;premios&#34;&gt;Premios&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mejor Agrupación Tradicional (Festival de Música Venezolana, 2002)&lt;/li&gt;&#xA;&lt;li&gt;Disco de Oro por &amp;ldquo;Canta Oriente&amp;rdquo; (2001)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

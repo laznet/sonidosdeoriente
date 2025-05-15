@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sonidos del Oriente Venezolano on </title>
+    <link>http://localhost:1313/instrumentos/</link>
+    <description>Recent content in Sonidos del Oriente Venezolano on </description>
+    <generator>Hugo</generator>
+    <language>es-ve</language>
+    <lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/instrumentos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bajo Electrico</title>
+      <link>http://localhost:1313/instrumentos/bajo-electrico/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/instrumentos/bajo-electrico/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cuatro</title>
+      <link>http://localhost:1313/instrumentos/cuatro/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/instrumentos/cuatro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guitarra</title>
+      <link>http://localhost:1313/instrumentos/guitarra/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/instrumentos/guitarra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mandolina</title>
+      <link>http://localhost:1313/instrumentos/mandolina/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/instrumentos/mandolina/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contrabajo</title>
+      <link>http://localhost:1313/instrumentos/contrabajo/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/instrumentos/contrabajo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interpretes</title>
+      <link>http://localhost:1313/instrumentos/interpretes/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/instrumentos/interpretes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Badola Oriental</title>
+      <link>http://localhost:1313/instrumentos/badola-oriental/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/instrumentos/badola-oriental/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cantautor</title>
+      <link>http://localhost:1313/instrumentos/cantautor/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/instrumentos/cantautor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compositores</title>
+      <link>http://localhost:1313/instrumentos/compositores/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/instrumentos/compositores/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

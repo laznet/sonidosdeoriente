@@ -1,0 +1,43 @@
+baseURL = "https://sonidosdelorientevenezolano.com"
+languageCode = "es-ve"
+title = "Sonidos del Oriente Venezolano"
+theme = ""
+
+[params]
+  description = "Portal de divulgación de la música tradicional del oriente venezolano"
+  featured_image = "/images/portada.jpg"
+  logo = "/images/logo.png"
+  color_primary = "#1a1a2e"
+  color_secondary = "#16213e"
+  color_accent = "#0f3460"
+  color_text = "#e6e6e6"
+
+[menu]
+  [[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Músicos"
+    url = "/musicos/"
+    weight = 2
+  [[menu.main]]
+    name = "Compositores"
+    url = "/compositores/"
+    weight = 3
+  [[menu.main]]
+    name = "Agrupaciones"
+    url = "/agrupaciones/"
+    weight = 4
+  [[menu.main]]
+    name = "Géneros"
+    url = "/generos/"
+    weight = 5
+  [[menu.main]]
+    name = "Partituras"
+    url = "/partituras/"
+    weight = 6
+  [[menu.main]]
+    name = "Producciones"
+    url = "/producciones/"
+    weight = 7

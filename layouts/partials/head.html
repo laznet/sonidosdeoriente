@@ -1,0 +1,21 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ .Title }} | {{ .Site.Title }}</title>
+<meta name="description" content="{{ .Params.description | default .Site.Params.description }}">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}">
+<meta property="og:description" content="{{ .Params.description | default .Site.Params.description }}">
+<meta property="og:image" content="{{ .Params.featured_image | default .Site.Params.featured_image | absURL }}">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="{{ .Permalink }}">
+<meta property="twitter:title" content="{{ .Title }} | {{ .Site.Title }}">
+<meta property="twitter:description" content="{{ .Params.description | default .Site.Params.description }}">
+<meta property="twitter:image" content="{{ .Params.featured_image | default .Site.Params.featured_image | absURL }}">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+<link rel="stylesheet" href="{{ "css/custom.css" | absURL }}">
