@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colaboradores on </title>
+    <link>http://localhost:1313/colaboradores/</link>
+    <description>Recent content in Colaboradores on </description>
+    <generator>Hugo</generator>
+    <language>es-ve</language>
+    <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/colaboradores/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Luis Argenis Zabala</title>
+      <link>http://localhost:1313/colaboradores/laz/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/colaboradores/laz/</guid>
+      <description>&lt;p&gt;Especialista en música tradicional venezolana con más de 15 años de experiencia en investigación etnomusicológica. Ha publicado varios trabajos sobre la evolución del joropo oriental y su influencia en la cultura popular.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>María Rodríguez</title>
+      <link>http://localhost:1313/colaboradores/maria-rodriguez/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/colaboradores/maria-rodriguez/</guid>
+      <description>&lt;p&gt;Especialista en música tradicional venezolana con más de 15 años de experiencia en investigación etnomusicológica. Ha publicado varios trabajos sobre la evolución del joropo oriental y su influencia en la cultura popular.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sono Oriente Estudios</title>
+      <link>http://localhost:1313/colaboradores/sonono_oriente/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/colaboradores/sonono_oriente/</guid>
+      <description>&lt;p&gt;Especialista en música tradicional venezolana con más de 15 años de experiencia en investigación etnomusicológica. Ha publicado varios trabajos sobre la evolución del joropo oriental y su influencia en la cultura popular.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Verny Salazar</title>
+      <link>http://localhost:1313/colaboradores/verny_salazar/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/colaboradores/verny_salazar/</guid>
+      <description>&lt;p&gt;Especialista en música tradicional venezolana con más de 15 años de experiencia en investigación etnomusicológica. Ha publicado varios trabajos sobre la evolución del joropo oriental y su influencia en la cultura popular.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+{{ define "main" }}
+<article class="collaborator-profile">
+  <header class="profile-header">
+    {{ if .Params.featured_image }}
+    <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="profile-image">
+    {{ end }}
+    <div class="profile-info">
+      <h1>{{ .Title }}</h1>
+      <p class="role">{{ .Params.role }}</p>
+      {{ if .Params.organizacion }}
+      <p class="organization">{{ .Params.organizacion }}</p>
+      {{ end }}
+    </div>
+  </header>
+
+  <div class="profile-content">
+    <div class="biography">
+      <h2>Biografía</h2>
+      {{ .Content }}
+    </div>
+
+    <div class="contributions">
+      <h2>Aportes al Proyecto</h2>
+      <ul>
+        {{ range .Params.aportes }}
+        <li>{{ . }}</li>
+        {{ end }}
+      </ul>
+    </div>
+
+    {{ if .Params.enlaces }}
+    <div class="links">
+      <h2>Enlaces</h2>
+      <div class="social-links">
+        {{ range .Params.enlaces }}
+        <a href="{{ .url }}" target="_blank" rel="noopener">
+          <i class="{{ .icon }}"></i> {{ .nombre }}
+        </a>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</article>
+{{ end }}

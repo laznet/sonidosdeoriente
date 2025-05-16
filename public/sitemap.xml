@@ -65,6 +65,9 @@
     <loc>http://localhost:1313/tags/guitarra/</loc>
     <lastmod>2025-05-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/instrumentos/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/musicos/laz/</loc>
     <lastmod>2025-05-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -74,11 +77,26 @@
     <loc>http://localhost:1313/musicos/</loc>
     <lastmod>2025-05-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/instrumentos/productor/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/musicos/ronald_cordova/</loc>
     <lastmod>2025-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/instrumentos/</loc>
-    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/colaboradores/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/colaboradores/laz/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/colaboradores/maria-rodriguez/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/colaboradores/sonono_oriente/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/colaboradores/verny_salazar/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/instrumentos/contrabajo/</loc>
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
@@ -185,5 +203,7 @@
     <loc>http://localhost:1313/generos/polo/</loc>
   </url><url>
     <loc>http://localhost:1313/regiones/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tipos_colaborador/</loc>
   </url>
 </urlset>

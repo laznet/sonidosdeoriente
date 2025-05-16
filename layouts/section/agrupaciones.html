@@ -5,7 +5,7 @@
 </section>
 
 <section class="section-list">
-  {{ range .Pages }}
+  {{ range .Pages.ByTitle }}
   <article class="section-item">
     <a href="{{ .RelPermalink }}">
       {{ if .Params.featured_image }}
@@ -14,9 +14,9 @@
       <h2>{{ .Title }}</h2>
       <p>{{ .Params.description }}</p>
       <div class="meta">
-        {{ if .Params.instrumentos }}
+        {{ if .Params.region }}
         <div class="instruments">
-          {{ range .Params.instrumentos }}
+          {{ range .Params.region }}
           <span class="instrument">{{ . }}</span>
           {{ end }}
         </div>

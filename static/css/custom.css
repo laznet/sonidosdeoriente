@@ -751,3 +751,202 @@
   text-align: center;
   margin-bottom: 2rem;
 }
+
+
+
+
+
+/* Estilos para colaboradores */
+.collaborators-section {
+  padding: 3rem 0;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.section-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.collaborators-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+.collaborator-card {
+  background: var(--color-secondary);
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: transform 0.3s ease;
+}
+
+.collaborator-card:hover {
+  transform: translateY(-5px);
+}
+
+.collaborator-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+.collaborator-placeholder {
+  width: 100%;
+  height: 200px;
+  background: rgba(255, 255, 255, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1rem;
+  border-radius: 4px;
+}
+
+.collaborator-placeholder i {
+  font-size: 3rem;
+  color: var(--color-accent);
+}
+
+.collaborator-role {
+  color: var(--color-accent);
+  font-weight: 500;
+  margin: 0.5rem 0;
+}
+
+.collaborator-meta {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+}
+
+.organization {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 0.3rem 0.8rem;
+  border-radius: 20px;
+}
+
+/* Página individual */
+.collaborator-profile {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.profile-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .profile-header {
+    flex-direction: row;
+    text-align: left;
+  }
+}
+
+.profile-image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-right: 0;
+  margin-bottom: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .profile-image {
+    margin-right: 2rem;
+    margin-bottom: 0;
+  }
+}
+
+.profile-info {
+  flex: 1;
+}
+
+.role {
+  font-size: 1.2rem;
+  color: var(--color-accent);
+  margin: 0.5rem 0;
+}
+
+.organization {
+  font-size: 1.1rem;
+  opacity: 0.9;
+}
+
+.profile-content {
+  margin-top: 2rem;
+}
+
+.profile-content h2 {
+  color: var(--color-accent);
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--color-accent);
+}
+
+.biography {
+  margin-bottom: 3rem;
+}
+
+.contributions ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.contributions li {
+  margin-bottom: 0.8rem;
+  position: relative;
+  padding-left: 1.5rem;
+}
+
+.contributions li::before {
+  content: "•";
+  color: var(--color-accent);
+  position: absolute;
+  left: 0;
+}
+
+.social-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.social-links a {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  background: var(--color-secondary);
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+.social-links a:hover {
+  background: var(--color-accent);
+  color: white;
+}
+
+.social-links i {
+  margin-right: 0.5rem;
+}
+
+
+/* Asegurar que el menú no se desborde */
+.main-nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+@media (max-width: 1200px) {
+  .main-nav li {
+    margin-left: 15px;
+  }
+}

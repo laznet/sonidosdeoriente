@@ -44,7 +44,11 @@ theme = ""
   [[menu.main]]
     name = "Producciones"
     url = "/producciones/"
-    weight = 8
+  [[menu.main]]
+    name = "Colaboradores"
+    url = "/colaboradores/"
+    weight = 9
+    
 
 
 [taxonomies]
@@ -54,5 +58,6 @@ theme = ""
   #agrupacion = "agrupaciones"
   etiqueta = "etiquetas"
   region = "regiones"
+  tipo_colaborador = "tipos_colaborador"
   
  

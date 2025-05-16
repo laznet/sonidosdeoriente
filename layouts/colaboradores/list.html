@@ -1,0 +1,31 @@
+{{ define "main" }}
+<section class="collaborators-section">
+  <header class="section-header">
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Description }}</p>
+  </header>
+
+  <div class="collaborators-grid">
+    {{ range .Pages }}
+    <article class="collaborator-card">
+      <a href="{{ .RelPermalink }}">
+        {{ if .Params.featured_image }}
+        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="collaborator-image">
+        {{ else }}
+        <div class="collaborator-placeholder">
+          <i class="fas fa-user-tie"></i>
+        </div>
+        {{ end }}
+        <h2>{{ .Title }}</h2>
+        <p class="collaborator-role">{{ .Params.role }}</p>
+      </a>
+      <div class="collaborator-meta">
+        {{ if .Params.organizacion }}
+        <span class="organization">{{ .Params.organizacion }}</span>
+        {{ end }}
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sonidos del Oriente Venezolano on </title>
+    <title>Instrumentos on </title>
     <link>http://localhost:1313/instrumentos/</link>
-    <description>Recent content in Sonidos del Oriente Venezolano on </description>
+    <description>Recent content in Instrumentos on </description>
     <generator>Hugo</generator>
     <language>es-ve</language>
     <lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate>
@@ -34,6 +34,13 @@
       <link>http://localhost:1313/instrumentos/mandolina/</link>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/instrumentos/mandolina/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productor</title>
+      <link>http://localhost:1313/instrumentos/productor/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/instrumentos/productor/</guid>
       <description></description>
     </item>
     <item>

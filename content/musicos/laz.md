@@ -5,7 +5,7 @@ featured_image: "/images/musicos/laz.jpg"
 date: 2025-05-13
 tags: ["cuatro", "guitarra", "bajo electrico", "Edo. Nva Esparta"]
 region: ["Edo. Nva Esparta"]
-instrumentos: ["cuatro", "guitarra", "bajo electrico"]
+instrumentos: ["cuatro", "guitarra", "bajo electrico", "productor"]
 agrupaciones: ["Ensamble Horizonte"]
 producciones: ["Soleando y Acompañando"]
 ---

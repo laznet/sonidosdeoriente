@@ -1,5 +1,6 @@
 ---
-title: "Sonidos del Oriente Venezolano"
+title: "Instrumentos"
+layout: "etiquetas"
 description: "Portal de divulgación de la música tradicional del oriente venezolano"
 featured_image: "/images/portada.jpg"
 ---
