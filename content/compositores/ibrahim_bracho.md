@@ -3,11 +3,11 @@ title: "Ibrahim Bracho"
 description: "Compositor de música tradicional venezolana"
 featured_image: "/images/compositores/ibrahim_bracho.jpg"
 date: 2023-05-10
-etiquetas: ["compositores", "cuatro", "Edo Nva Esparta"]
-region: ["Edo Nva Esparta"]
-obras: ["Marinera", "Ah Viejo Jodio", "Testimonio"]
-producciones: ["Criollo con Clase", "Ocurrencias", "Abriendo Caminos", "Pa Margarita es que es"]
-instrumentos: ["compositores","cuatro", "interpretes","cantautor"]
+etiquetas: ["compositor","cuatro", "interprete","cantautor", "edo. nva. esparta"]
+region: ["edo. nva. esparta"]
+obras: ["marinera", "ah viejo jodio", "testimonio"]
+producciones: ["criollo con clase", "ocurrencias", "abriendo caminos", "pa margarita es que es"]
+instrumentos: ["compositor","cuatro", "interprete","cantautor"]
 ---
 
 ## Biografía

@@ -3,9 +3,9 @@ title: "José Mota"
 description: "Guitarrista, contrabajista e interprete margariteño de dilatada trayectoria"
 featured_image: "/images/musicos/jose_mota.jpg"
 date: 2023-05-15
-etiqueta: ["interpretes","guitarra", "contrabajo"]
-region: ["Edo. Nva Esparta"]
-instrumentos: ["interpretes","guitarra", "contrabajo"]
+etiquetas: ["interprete","guitarra", "contrabajo", "edo. nva. esparta"]
+region: ["edo. nva. esparta"]
+instrumentos: ["interprete","guitarra", "contrabajo"]
 agrupaciones: ["ensamble opus4"]
 producciones: [""]
 ---

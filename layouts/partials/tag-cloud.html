@@ -1,4 +1,4 @@
-<div class="tag-cloud-container">
+<!-- <div class="tag-cloud-container">
     <h3>Explorar por Etiquetas</h3>
     <div class="tag-cloud">
       {{ $tags := $.Site.Taxonomies.etiquetas }}
@@ -15,4 +15,54 @@
         </a>
       {{ end }}
     </div>
+  </div> -->
+
+  <!-- <div class="tag-cloud-container">
+    <h3>Explorar por Etiquetas</h3>
+    <div class="tag-cloud">
+      {{ $tags := $.Site.Taxonomies.etiquetas }}
+      {{ range $name, $taxonomy := $tags }}
+        {{ $count := len $taxonomy.Pages }}
+        <a href="{{ "/etiquetas/" | relLangURL }}{{ $name | urlize }}" 
+           class="tag-size-{{ $count }}">
+          {{ $name }}
+        </a>
+      {{ else }}
+        <p>Aún no hay etiquetas disponibles</p>
+      {{ end }}
+    </div>
+</div> -->
+
+
+<div class="tag-cloud-container">
+  <h3>Explorar por Etiquetas</h3>
+  <div class="tag-cloud">
+    {{ $tags := $.Site.Taxonomies.etiquetas }}
+    {{ if gt (len $tags) 0 }}
+      {{ $max := len (index $tags.ByCount 0).Pages }}
+      {{ $min := len (index $tags.ByCount.Reverse 0).Pages }}
+      
+      {{ if ne $min $max }}
+        {{ range $name, $taxonomy := $tags }}
+          {{ $count := len $taxonomy.Pages }}
+          {{ $weight := div (sub (math.Log $count) (math.Log $max)) }}
+          {{ $size := add 0.8 (mul (sub 2.5 0.8) $weight) }}
+          <a href="{{ "/etiquetas/" | relLangURL }}{{ $name | urlize }}" 
+             style="font-size: {{ $size }}rem;">
+            {{ $name }} ({{ $count }})
+          </a>
+        {{ end }}
+      {{ else }}
+        <!-- Caso cuando todas las etiquetas tienen el mismo conteo -->
+        {{ range $name, $taxonomy := $tags }}
+          <a href="{{ "/etiquetas/" | relLangURL }}{{ $name | urlize }}" 
+             style="font-size: 1.2rem;">
+            {{ $name }}
+          </a>
+        {{ end }}
+      {{ end }}
+    {{ else }}
+      <p>Aún no hay etiquetas disponibles</p>
+    {{ end }}
   </div>
+</div>

@@ -3,11 +3,11 @@ title: "Hernan Marin"
 description: "El Rey del joropo y el estribillo"
 featured_image: "/images/musicos/hernan_marin.jpg"
 date: 2023-05-10
-tags: ["interpretes","cuatro"]
+etiquetas: ["interprete","cuatro" ,"edo. sucre"]
 obras: []
-region: ["Edo. Sucre"]
-producciones: []
-instrumentos: ["interpretes","cuatro"]
+region: ["edo. sucre"]
+producciones: ["mar de la esperanza"]
+instrumentos: ["interprete","cuatro"]
 ---
 
 ## Biografía

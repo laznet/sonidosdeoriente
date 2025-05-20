@@ -3,11 +3,11 @@ title: "Alexis Real"
 description: "Compositor Margariteño"
 featured_image: "/images/compositores/alexis_real.jpg"
 date: 2023-05-10
-etiqueras: ["compositores", "interpretes","Edo Nva Esparta"]
-region: ["Edo Nva Esparta"]
-obras: ["Alma Oriental", "Canto a mi Tierra", "Sueños Llaneros"]
+etiquetas: ["compositor", "interprete","cantautor","edo. nva. esparta"]
+region: ["edo. nva. esparta"]
+obras: []
 producciones: ["cantares"]
-instrumentos: ["compositores", "interpretes", "cantautor"]
+instrumentos: ["compositores", "interprete", "cantautor"]
 ---
 
 ## Biografía

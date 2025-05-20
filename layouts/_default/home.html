@@ -18,9 +18,11 @@
             {{ if eq .Section "musicos" }}<i class="fas fa-users"></i>{{ end }}
             {{ if eq .Section "compositores" }}<i class="fas fa-music"></i>{{ end }}
             {{ if eq .Section "agrupaciones" }}<i class="fas fa-guitar"></i>{{ end }}
-            {{ if eq .Section "generos" }}<i class="fas fa-compact-disc"></i>{{ end }}
+            {{ if eq .Section "articulos" }}<i class="fas  fa-music"></i>{{ end }}
             {{ if eq .Section "partituras" }}<i class="fas fa-scroll"></i>{{ end }}
             {{ if eq .Section "producciones" }}<i class="fas fa-record-vinyl"></i>{{ end }}
+            <!-- {{ if eq .Section "colaboradores" }}<i class="fas fa-users"></i>{{ end }} -->
+            <!-- {{ if eq .Section "etiquetas" }}<i class="fas fa-users"></i>{{ end }} -->
           </div>
           <h3>{{ .Title }}</h3>
           <p>{{ .Description }}</p>

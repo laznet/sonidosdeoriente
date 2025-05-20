@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generos Tradicionales on </title>
+    <link>http://localhost:1313/etiquetas/generos-tradicionales/</link>
+    <description>Recent content in Generos Tradicionales on </description>
+    <generator>Hugo</generator>
+    <language>es-ve</language>
+    <atom:link href="http://localhost:1313/etiquetas/generos-tradicionales/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aguinaldo Joropeao</title>
+      <link>http://localhost:1313/articulos/aguinaldo_joropeao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articulos/aguinaldo_joropeao/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diversión Cochense</title>
+      <link>http://localhost:1313/articulos/diversion-cochense/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articulos/diversion-cochense/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diversión Margariteña</title>
+      <link>http://localhost:1313/articulos/diversion-margarite%C3%B1a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articulos/diversion-margarite%C3%B1a/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diversión Sucrense</title>
+      <link>http://localhost:1313/articulos/diversion-sucrense/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articulos/diversion-sucrense/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>La Decima Espinela</title>
+      <link>http://localhost:1313/articulos/la-decima-espinela/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articulos/la-decima-espinela/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parranda Oriental</title>
+      <link>http://localhost:1313/articulos/parranda_oriental/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articulos/parranda_oriental/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Polo</title>
+      <link>http://localhost:1313/articulos/polo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articulos/polo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -9,6 +9,41 @@
     <lastBuildDate>Tue, 13 May 2025 13:16:11 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/agrupaciones/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Arrecife</title>
+      <link>http://localhost:1313/agrupaciones/arrecife/</link>
+      <pubDate>Tue, 13 May 2025 13:16:11 -0400</pubDate>
+      <guid>http://localhost:1313/agrupaciones/arrecife/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Canalete y Carnada</title>
+      <link>http://localhost:1313/agrupaciones/cuerdas-espartanas/</link>
+      <pubDate>Tue, 13 May 2025 13:16:11 -0400</pubDate>
+      <guid>http://localhost:1313/agrupaciones/cuerdas-espartanas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Collar de Perlas (inactiva)</title>
+      <link>http://localhost:1313/agrupaciones/collar-de-perlas/</link>
+      <pubDate>Tue, 13 May 2025 13:16:11 -0400</pubDate>
+      <guid>http://localhost:1313/agrupaciones/collar-de-perlas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cuatrinca</title>
+      <link>http://localhost:1313/agrupaciones/cuatrinca/</link>
+      <pubDate>Tue, 13 May 2025 13:16:11 -0400</pubDate>
+      <guid>http://localhost:1313/agrupaciones/cuatrinca/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cuerdas Espartanas</title>
+      <link>http://localhost:1313/agrupaciones/canalete-y-carnada/</link>
+      <pubDate>Tue, 13 May 2025 13:16:11 -0400</pubDate>
+      <guid>http://localhost:1313/agrupaciones/canalete-y-carnada/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Ensamble Bandola Oriente</title>
       <link>http://localhost:1313/agrupaciones/ensamble_bandola_oriente/</link>
       <pubDate>Tue, 13 May 2025 13:16:11 -0400</pubDate>
@@ -17,10 +52,10 @@
     </item>
     <item>
       <title>Ensamble Horizonte</title>
-      <link>http://localhost:1313/agrupaciones/ensamble-horizonte/</link>
+      <link>http://localhost:1313/agrupaciones/ensamble_horizonte/</link>
       <pubDate>Tue, 13 May 2025 13:16:11 -0400</pubDate>
-      <guid>http://localhost:1313/agrupaciones/ensamble-horizonte/</guid>
-      <description>&lt;p&gt;fffsdgvgsggvg&lt;/p&gt;</description>
+      <guid>http://localhost:1313/agrupaciones/ensamble_horizonte/</guid>
+      <description></description>
     </item>
     <item>
       <title>Ensamble Opus4</title>
@@ -30,10 +65,24 @@
       <description></description>
     </item>
     <item>
+      <title>Los Indianos</title>
+      <link>http://localhost:1313/agrupaciones/los-indianos/</link>
+      <pubDate>Tue, 13 May 2025 13:16:11 -0400</pubDate>
+      <guid>http://localhost:1313/agrupaciones/los-indianos/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Oriente Mio</title>
       <link>http://localhost:1313/agrupaciones/oriente_mio/</link>
       <pubDate>Tue, 13 May 2025 13:16:11 -0400</pubDate>
       <guid>http://localhost:1313/agrupaciones/oriente_mio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Penisla</title>
+      <link>http://localhost:1313/agrupaciones/penisla/</link>
+      <pubDate>Tue, 13 May 2025 13:16:11 -0400</pubDate>
+      <guid>http://localhost:1313/agrupaciones/penisla/</guid>
       <description></description>
     </item>
     <item>

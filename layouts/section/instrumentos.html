@@ -2,7 +2,7 @@
 <section class="section-header">
   <h1>{{ .Title }}</h1>
   <p>{{ .Description }}</p>
-</section>
+ </section>
 
 <section class="section-list">
   {{ range .Pages }}
@@ -22,6 +22,7 @@
         </div>
         {{ end }}
       </div>
+      <!-- {{ partial "tag-cloud.html" . }} -->
     </a>
   </article>
   {{ end }}

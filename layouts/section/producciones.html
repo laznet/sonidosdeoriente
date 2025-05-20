@@ -14,9 +14,9 @@
       <h2>{{ .Title }}</h2>
       <p>{{ .Params.description }}</p>
       <div class="meta">
-        {{ if .Params.instrumentos }}
+        {{ if .Params.producciones }}
         <div class="instruments">
-          {{ range .Params.instrumentos }}
+          {{ range .Params.producciones }}
           <span class="instrument">{{ . }}</span>
           {{ end }}
         </div>

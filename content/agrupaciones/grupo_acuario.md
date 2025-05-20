@@ -3,10 +3,11 @@ title: "Grupo Acuario"
 description: "Agrupación tradicional de música oriental venezolana"
 featured_image: "/images/agrupaciones/grupo_acuario.jpg"
 date: 2023-05-12
-tags: ["agrupacion"]
+etiquetas: ["edo. nva. esparta", "agrupaciones", "agrupaciones edo. nva. esparta"]
+region: ["edo. nva. esparta"]
 fundacion: 1995
-integrantes: ["Luis Teodoro Garcia", "Enio Garcia", "Abraham Garcia"]
-discografia: []
+integrantes: ["luis Teodoro garcia", "enio Garcia", "abraham garcia"]
+discografia: ["vendaval"]
 ---
 
 ## Historia

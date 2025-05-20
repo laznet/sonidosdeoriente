@@ -30,8 +30,8 @@ theme = ""
     url = "/agrupaciones/"
     weight = 4
   [[menu.main]]
-    name = "Géneros"
-    url = "/generos/"
+    name = "Articulos"
+    url = "/articulos/"
     weight = 5
   [[menu.main]]
     name = "Instrumentos"
@@ -44,10 +44,15 @@ theme = ""
   [[menu.main]]
     name = "Producciones"
     url = "/producciones/"
+     weight = 8
   [[menu.main]]
     name = "Colaboradores"
     url = "/colaboradores/"
     weight = 9
+  [[menu.main]]
+    name = "Tags"
+    url = "/etiquetas/"
+    weight = 10
     
 
 
@@ -58,6 +63,8 @@ theme = ""
   #agrupacion = "agrupaciones"
   etiqueta = "etiquetas"
   region = "regiones"
+  cuatro = "cuatristas"
+  #producciones = "producciones"
   tipo_colaborador = "tipos_colaborador"
   
  

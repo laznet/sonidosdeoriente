@@ -1,13 +1,139 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Etiquetas on </title>
+    <title>Tags on </title>
     <link>http://localhost:1313/etiquetas/</link>
-    <description>Recent content in Etiquetas on </description>
+    <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
     <language>es-ve</language>
-    <lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 13:16:11 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/etiquetas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agrupaciones</title>
+      <link>http://localhost:1313/etiquetas/agrupaciones/</link>
+      <pubDate>Tue, 13 May 2025 13:16:11 -0400</pubDate>
+      <guid>http://localhost:1313/etiquetas/agrupaciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Agrupaciones Edo. Nva. Esparta</title>
+      <link>http://localhost:1313/etiquetas/agrupaciones-edo.-nva.-esparta/</link>
+      <pubDate>Tue, 13 May 2025 13:16:11 -0400</pubDate>
+      <guid>http://localhost:1313/etiquetas/agrupaciones-edo.-nva.-esparta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Agrupaciones, Edo. Sucre</title>
+      <link>http://localhost:1313/etiquetas/agrupaciones-edo.-sucre/</link>
+      <pubDate>Tue, 13 May 2025 13:16:11 -0400</pubDate>
+      <guid>http://localhost:1313/etiquetas/agrupaciones-edo.-sucre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Edo. Nva. Esparta</title>
+      <link>http://localhost:1313/etiquetas/edo.-nva.-esparta/</link>
+      <pubDate>Tue, 13 May 2025 13:16:11 -0400</pubDate>
+      <guid>http://localhost:1313/etiquetas/edo.-nva.-esparta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Edo. Sucre</title>
+      <link>http://localhost:1313/etiquetas/edo.-sucre/</link>
+      <pubDate>Tue, 13 May 2025 13:16:11 -0400</pubDate>
+      <guid>http://localhost:1313/etiquetas/edo.-sucre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Luis Argenis Zabala</title>
+      <link>http://localhost:1313/etiquetas/luis-argenis-zabala/</link>
+      <pubDate>Tue, 13 May 2025 13:16:11 -0400</pubDate>
+      <guid>http://localhost:1313/etiquetas/luis-argenis-zabala/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Arreglista</title>
+      <link>http://localhost:1313/etiquetas/arreglista/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/etiquetas/arreglista/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bajo Electrico</title>
+      <link>http://localhost:1313/etiquetas/bajo-electrico/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/etiquetas/bajo-electrico/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bandola Oriental</title>
+      <link>http://localhost:1313/etiquetas/bandola-oriental/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/etiquetas/bandola-oriental/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compositor</title>
+      <link>http://localhost:1313/etiquetas/compositor/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/etiquetas/compositor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cuatro</title>
+      <link>http://localhost:1313/etiquetas/cuatro/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/etiquetas/cuatro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guitarra</title>
+      <link>http://localhost:1313/etiquetas/guitarra/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/etiquetas/guitarra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interprete</title>
+      <link>http://localhost:1313/etiquetas/interprete/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/etiquetas/interprete/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mandolina</title>
+      <link>http://localhost:1313/etiquetas/mandolina/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/etiquetas/mandolina/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maracas</title>
+      <link>http://localhost:1313/etiquetas/maracas/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/etiquetas/maracas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Violin</title>
+      <link>http://localhost:1313/etiquetas/violin/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/etiquetas/violin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contrabajo</title>
+      <link>http://localhost:1313/etiquetas/contrabajo/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/etiquetas/contrabajo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cantautor</title>
+      <link>http://localhost:1313/etiquetas/cantautor/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/etiquetas/cantautor/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Compositores</title>
       <link>http://localhost:1313/etiquetas/compositores/</link>
@@ -16,17 +142,24 @@
       <description></description>
     </item>
     <item>
-      <title>Cuatro</title>
-      <link>http://localhost:1313/etiquetas/cuatro/</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etiquetas/cuatro/</guid>
+      <title>Calendaro Festivo Oriental</title>
+      <link>http://localhost:1313/etiquetas/calendaro-festivo-oriental/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/etiquetas/calendaro-festivo-oriental/</guid>
       <description></description>
     </item>
     <item>
-      <title>Edo Nva Esparta</title>
-      <link>http://localhost:1313/etiquetas/edo-nva-esparta/</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/etiquetas/edo-nva-esparta/</guid>
+      <title>Generos Tradicionales</title>
+      <link>http://localhost:1313/etiquetas/generos-tradicionales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/etiquetas/generos-tradicionales/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poesia</title>
+      <link>http://localhost:1313/etiquetas/poesia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/etiquetas/poesia/</guid>
       <description></description>
     </item>
   </channel>

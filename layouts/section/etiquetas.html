@@ -1,0 +1,29 @@
+{{ define "main" }}
+<section class="section-header">
+  <h1>{{ .Title }}</h1>
+  <p>{{ .Description }}</p>
+</section>
+
+<section class="section-list">
+  {{ range .Pages.ByTitle }}
+  <article class="section-item">
+    <a href="{{ .RelPermalink }}">
+      {{ if .Params.featured_image }}
+      <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+      {{ end }}
+      <h2>{{ .Title }}</h2>
+      <p>{{ .Params.description }}</p>
+      <div class="meta">
+        {{ if .Params.region }}
+        <div class="instruments">
+          {{ range .Params.region }}
+          <span class="instrument">{{ . }}</span>
+          {{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </a>
+  </article>
+  {{ end }}
+</section>
+{{ end }}

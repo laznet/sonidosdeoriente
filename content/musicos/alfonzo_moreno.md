@@ -3,10 +3,10 @@ title: "Alfonzo Moreno"
 description: "Cuatrista / Productor Musica de amplia trayectoria"
 featured_image: "/images/musicos/alfonzo_moreno.jpg"
 date: 2025-05-13
-tags: ["cuatro",  "Edo. Sucre"]
+etiquetas: ["cuatro",  "edo. sucre"]
 region: ["Edo. Sucre"]
 instrumentos: ["cuatro"]
-agrupaciones: []
+agrupaciones: ["cuatrinca"]
 producciones: []
 ---
 

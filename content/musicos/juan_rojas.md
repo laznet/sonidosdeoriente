@@ -3,8 +3,8 @@ title: "Juan Rojas"
 description: "Cuatrista y compositor de música tradicional oriental"
 featured_image: "/images/musicos/juan_rojas.jpg"
 date: 2023-05-15
-etiqueta: ["cuatro","mandolina"]
-region: ["Edo. Nva Esparta"]
+etiquetas: ["cuatro","bajo electrico", "edo. nva. esparta"]
+region: ["edo. nva. esparta"]
 instrumentos: ["cuatro","bajo electrico"]
 agrupaciones: ["ensamble opus4"]
 producciones: ["El Cuatro de Juan Rojas"]

@@ -1,6 +1,6 @@
 ---
 title: "Colaboradores"
-# layout: "default"
+layout: colaboradores
 description: "Personas e instituciones que hacen posible este proyecto"
 featured_image: "/images/colaboradores/portada.jpg"
 ---

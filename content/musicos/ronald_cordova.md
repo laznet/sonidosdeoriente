@@ -3,11 +3,11 @@ title: "Ronald Cordova"
 description: "Mandolinista margariteño de la ciudad de Juan Griego"
 featured_image: "/images/musicos/ronald_cordova.jpg"
 date: 2025-05-13
-etiqueta: ["mandolina"]
-region: ["Edo. Nva Esparta"]
+etiquetas: ["mandolina", "edo. nva. esparta"]
+region: ["edo. nva. esparta"]
 instrumentos: ["mandolina"]
-agrupaciones: ["Ensamble Horizonte"]
-producciones: ["Asi es Nuestra Musica"]
+agrupaciones: [""]
+producciones: [""]
 ---
 
 ## Biografía

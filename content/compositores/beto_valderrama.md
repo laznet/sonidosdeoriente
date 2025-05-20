@@ -1,13 +1,13 @@
 ---
 title: 'Alberto "Beto" Valderrama Patiño'
-description: "Compositor Margariteño"
+description: "Musico y Compositor Margariteño"
 featured_image: "/images/musicos/alberto_valderrama.jpg"
 date: 2023-05-10
-tags: ["compositores", "mandolina", "badola oriental","nueva esparta"]
-region: ["nueva esparta"]
-obras: []
-producciones: ["cantares"]
-instrumentos: ["compositores", "mandolina", "badola oriental"]
+etiquetas: ["compositor", "mandolina", "bandola oriental","arreglista","edo. nva. esparta"]
+regiones: ["edo. nva. esparta"]
+obras: ["el avispero", "el tamarindo"]
+producciones: ["con bandola y mandolina"]
+instrumentos: ["compositor", "mandolina", "bandola oriental"]
 ---
 
 ## Biografía

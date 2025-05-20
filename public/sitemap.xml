@@ -5,25 +5,55 @@
     <loc>http://localhost:1313/agrupaciones/</loc>
     <lastmod>2025-05-13T13:16:11-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cumana/</loc>
+    <loc>http://localhost:1313/etiquetas/agrupaciones/</loc>
+    <lastmod>2025-05-13T13:16:11-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/etiquetas/agrupaciones-edo.-nva.-esparta/</loc>
+    <lastmod>2025-05-13T13:16:11-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/etiquetas/agrupaciones-edo.-sucre/</loc>
+    <lastmod>2025-05-13T13:16:11-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/agrupaciones/arrecife/</loc>
+    <lastmod>2025-05-13T13:16:11-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/agrupaciones/cuerdas-espartanas/</loc>
+    <lastmod>2025-05-13T13:16:11-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/agrupaciones/collar-de-perlas/</loc>
+    <lastmod>2025-05-13T13:16:11-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/agrupaciones/cuatrinca/</loc>
+    <lastmod>2025-05-13T13:16:11-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/agrupaciones/canalete-y-carnada/</loc>
+    <lastmod>2025-05-13T13:16:11-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/etiquetas/edo.-nva.-esparta/</loc>
+    <lastmod>2025-05-13T13:16:11-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/etiquetas/edo.-sucre/</loc>
     <lastmod>2025-05-13T13:16:11-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/agrupaciones/ensamble_bandola_oriente/</loc>
     <lastmod>2025-05-13T13:16:11-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/agrupaciones/ensamble-horizonte/</loc>
+    <loc>http://localhost:1313/agrupaciones/ensamble_horizonte/</loc>
     <lastmod>2025-05-13T13:16:11-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/agrupaciones/opus4/</loc>
     <lastmod>2025-05-13T13:16:11-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/isla-de-margarita/</loc>
+    <loc>http://localhost:1313/agrupaciones/los-indianos/</loc>
+    <lastmod>2025-05-13T13:16:11-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/etiquetas/luis-argenis-zabala/</loc>
     <lastmod>2025-05-13T13:16:11-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/agrupaciones/oriente_mio/</loc>
     <lastmod>2025-05-13T13:16:11-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/region/</loc>
+    <loc>http://localhost:1313/agrupaciones/penisla/</loc>
     <lastmod>2025-05-13T13:16:11-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/agrupaciones/sol_y_sereno/</loc>
@@ -32,7 +62,7 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-05-13T13:16:11-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/etiquetas/</loc>
     <lastmod>2025-05-13T13:16:11-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/agrupaciones/tierra_de_gracia/</loc>
@@ -41,37 +71,85 @@
     <loc>http://localhost:1313/musicos/alfonzo_moreno/</loc>
     <lastmod>2025-05-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/etiquetas/arreglista/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/instrumentos/arreglista/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/etiquetas/bajo-electrico/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/instrumentos/bajo-electrico/</loc>
     <lastmod>2025-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/bajo-electrico/</loc>
+    <loc>http://localhost:1313/etiquetas/bandola-oriental/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/instrumentos/bandola-oriental/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/musicos/carlos-carvajal/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/musicos/carlos_ortiz/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/musicos/cesar-mata-peche/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/etiquetas/compositor/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/instrumentos/compositor/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/etiquetas/cuatro/</loc>
     <lastmod>2025-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/instrumentos/cuatro/</loc>
     <lastmod>2025-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cuatro/</loc>
+    <loc>http://localhost:1313/musicos/domingo-moya/</loc>
     <lastmod>2025-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/edo.-nva-esparta/</loc>
+    <loc>http://localhost:1313/musicos/erasmo-cardona/</loc>
     <lastmod>2025-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/edo.-sucre/</loc>
+    <loc>http://localhost:1313/musicos/estelio-padilla/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/etiquetas/guitarra/</loc>
     <lastmod>2025-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/instrumentos/guitarra/</loc>
     <lastmod>2025-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/guitarra/</loc>
+    <loc>http://localhost:1313/instrumentos/</loc>
     <lastmod>2025-05-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/instrumentos/</loc>
+    <loc>http://localhost:1313/etiquetas/interprete/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/instrumentos/interprete/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/musicos/purrungo/</loc>
     <lastmod>2025-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/musicos/laz/</loc>
     <lastmod>2025-05-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/etiquetas/mandolina/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/instrumentos/mandolina/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/etiquetas/maracas/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/instrumentos/maracas/</loc>
     <lastmod>2025-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/musicos/</loc>
@@ -83,7 +161,19 @@
     <loc>http://localhost:1313/musicos/ronald_cordova/</loc>
     <lastmod>2025-05-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/musicos/tello-aguilera/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/etiquetas/violin/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/instrumentos/violin/</loc>
+    <lastmod>2025-05-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/colaboradores/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/colaboradores/verny_salazar/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/colaboradores/laz/</loc>
@@ -95,23 +185,38 @@
     <loc>http://localhost:1313/colaboradores/sonono_oriente/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/colaboradores/verny_salazar/</loc>
-    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/musicos/aurelena-cabrera/</loc>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/musicos/carlos-valderrama/</loc>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/etiquetas/contrabajo/</loc>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/instrumentos/contrabajo/</loc>
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/instrumentos/interpretes/</loc>
+    <loc>http://localhost:1313/musicos/javier-duben/</loc>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/musicos/javier-valderrama/</loc>
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/musicos/jose_mota/</loc>
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/musicos/jose_ramos/</loc>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/musicos/juan_rojas/</loc>
     <lastmod>2023-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/agrupacion/</loc>
-    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/musicos/lucienne-sanabria/</loc>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/musicos/nora-cardona/</loc>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/agrupaciones/grupo_acuario/</loc>
     <lastmod>2023-05-12T00:00:00+00:00</lastmod>
@@ -131,13 +236,13 @@
     <loc>http://localhost:1313/producciones/eh_asi_es_nuestra_musica/</loc>
     <lastmod>2023-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/instrumentos/badola-oriental/</loc>
-    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/badola-oriental/</loc>
+    <loc>http://localhost:1313/etiquetas/cantautor/</loc>
     <lastmod>2023-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/instrumentos/cantautor/</loc>
+    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/musicos/cesar-martinez/</loc>
     <lastmod>2023-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/compositor/</loc>
@@ -152,16 +257,7 @@
     <loc>http://localhost:1313/instrumentos/compositores/</loc>
     <lastmod>2023-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/compositores/</loc>
-    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/etiquetas/cuatro/</loc>
-    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/etiquetas/edo-nva-esparta/</loc>
-    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/etiquetas/</loc>
+    <loc>http://localhost:1313/regiones/edo.-nva.-esparta/</loc>
     <lastmod>2023-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/gaita/</loc>
@@ -173,19 +269,13 @@
     <loc>http://localhost:1313/compositores/ibrahim_bracho/</loc>
     <lastmod>2023-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/interpretes/</loc>
-    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/joropo/</loc>
     <lastmod>2023-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/musicos/gollito_enis/</loc>
     <lastmod>2023-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mandolina/</loc>
-    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/nueva-esparta/</loc>
+    <loc>http://localhost:1313/musicos/keyla-gutierrez/</loc>
     <lastmod>2023-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/partituras/</loc>
@@ -194,16 +284,38 @@
     <loc>http://localhost:1313/producciones/</loc>
     <lastmod>2023-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/generos/aguinaldo_joropeao/</loc>
-  </url><url>
-    <loc>http://localhost:1313/generos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/generos/parranda_oriental/</loc>
-  </url><url>
-    <loc>http://localhost:1313/generos/polo/</loc>
-  </url><url>
     <loc>http://localhost:1313/regiones/</loc>
+    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/articulos/aguinaldo_joropeao/</loc>
+  </url><url>
+    <loc>http://localhost:1313/articulos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/etiquetas/calendaro-festivo-oriental/</loc>
+  </url><url>
+    <loc>http://localhost:1313/cuatristas/</loc>
+  </url><url>
+    <loc>http://localhost:1313/articulos/diversion-cochense/</loc>
+  </url><url>
+    <loc>http://localhost:1313/articulos/diversion-margarite%C3%B1a/</loc>
+  </url><url>
+    <loc>http://localhost:1313/articulos/diversion-sucrense/</loc>
+  </url><url>
+    <loc>http://localhost:1313/etiquetas/generos-tradicionales/</loc>
+  </url><url>
+    <loc>http://localhost:1313/articulos/la-decima-espinela/</loc>
+  </url><url>
+    <loc>http://localhost:1313/articulos/parranda_oriental/</loc>
+  </url><url>
+    <loc>http://localhost:1313/etiquetas/poesia/</loc>
+  </url><url>
+    <loc>http://localhost:1313/articulos/polo/</loc>
   </url><url>
     <loc>http://localhost:1313/tipos_colaborador/</loc>
+  </url><url>
+    <loc>http://localhost:1313/articulos/velorio-cruz-de-mayo/</loc>
   </url>
 </urlset>

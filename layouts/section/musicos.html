@@ -2,6 +2,7 @@
 <section class="section-header">
   <h1>{{ .Title }}</h1>
   <p>{{ .Description }}</p>
+  
 </section>
 
 <section class="section-list">
@@ -19,11 +20,16 @@
           {{ range .Params.instrumentos }}
           <span class="instrument">{{ . }}</span>
           {{ end }}
+          
         </div>
         {{ end }}
       </div> 
     </a>
   </article>
   {{ end }}
+  
 </section>
 {{ end }}
+
+          
+          
